@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: by owl
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Ravenclaw
+- ⚡ Fun fact: it's always darkest before the dawn
 
 <!---
 PlayfulTeacher/PlayfulTeacher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
