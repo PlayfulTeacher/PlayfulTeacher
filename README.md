@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to navigate this platform. 
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: by owl
-- 😄 Pronouns: she/her
+- 😄 Pronouns: try/me
 - ⚡ Fun fact: it's always darkest before the dawn
 
 <!---
